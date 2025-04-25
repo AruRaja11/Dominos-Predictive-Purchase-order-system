@@ -8,3 +8,5 @@ Optimizing the process of ordering the ingredients, predicting future sales and 
 
   
 # Screenshots
+Pizza Quantity Prediction on days basis
+![alt text](https://github.com/AruRaja11/Dominos-Predictive-Purchase-order-system/blob/dfc81a4670d76fb38c46f5d54b9a97ebaabe57a9/Screenshots/Landing.png)
